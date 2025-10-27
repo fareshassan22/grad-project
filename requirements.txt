@@ -1,0 +1,17 @@
+streamlit
+requests
+python-dotenv
+git+https://github.com/speechmatics/speechmatics-python.git
+openai
+gpt4all
+pyttsx3
+moviepy
+opencv-python
+torch
+transformers
+openai-whisper
+soundfile
+langdetect
+sounddevice
+scipy
+
